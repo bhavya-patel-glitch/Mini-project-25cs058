@@ -51,19 +51,23 @@ Book tickets for multiple passengers
 Cancel tickets
 View bookings
 Ticket IDs are auto-generated using a counter.
+
 ▶️ How to Run
 g++ main.cpp -o railway
 ./railway
+
 ⚠️ Limitations
 No authentication system for Admin/Passenger
 No seat availability tracking (seats are stored but not updated)
 File-based storage (no database)
 Basic string matching for cancellation (may remove unintended entries)
+
 🔮 Future Improvements
 Add login authentication
 Implement seat availability management
 Use database instead of text files
 Improve search and cancellation accuracy
 Add GUI interface
+
 📜 Author
 Bhavya Patel (25CS058)

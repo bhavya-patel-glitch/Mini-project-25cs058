@@ -89,16 +89,6 @@ g++ main.cpp -o railway
 ./railway
 ```
 
----
-
-## ⚠️ Limitations
-
-- No login/authentication system
-- No seat availability tracking
-- Uses text files instead of database
-- Basic string matching for cancellation
-
----
 
 ## 🔮 Future Improvements
 
